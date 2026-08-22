@@ -1,0 +1,24 @@
+{
+  "name": "AlexMythosIntelligence",
+  "short_name": "AMI",
+  "description": "AlexMythosIntelligence",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07192b",
+  "theme_color": "#07192b",
+  "icons": [
+    {
+      "src": "AMI_Icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "AMI_Icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
